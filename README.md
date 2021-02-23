@@ -3,9 +3,9 @@
 Content:
 
 - Website folder
--- app.js
--- index.html
---  style.css
+- - app.js
+- - index.html
+- -  style.css
 
 - server.js
 - README.MD
